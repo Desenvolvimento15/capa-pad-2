@@ -723,6 +723,34 @@ sub {
   bottom: -0.25em;
 }
 
+.f-thin {
+  font-weight: 100;
+}
+.f-extra {
+  font-weight: 200;
+}
+.f-light {
+  font-weight: 300;
+}
+.f-regular {
+  font-weight: 400;
+}
+.f-medium {
+  font-weight: 500;
+}
+.f-semi {
+  font-weight: 600;
+}
+.f-bold {
+  font-weight: 700;
+}
+.f-bolder {
+  font-weight: 800;
+}
+.f-heavy {
+  font-weight: 900;
+}
+
 .container {
   margin: 0 auto;
   width: 1226px;
